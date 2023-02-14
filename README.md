@@ -1,4 +1,4 @@
-<div align="center"> 
+<div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hi,+I'm+Muhammad;Here's+What+I+do;Web+Development;App+Development;HACKING+as+a+hobby"  alt="Hello World!"/>
 </div>
 
