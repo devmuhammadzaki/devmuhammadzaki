@@ -30,9 +30,9 @@
 </p>
 
 <div>
-  <h3 align="left">Technologies I've used:</h3>
+  <h3 align="left">:artificial_satellite: Technologies I've used</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,html,css,dart,express,git,java,materialui,flutter,mongodb,nodejs,py,react,tailwind,vercel,vite,firebase,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,git,nodejs,py,react,c,c++,sass" />
   </div>
 </div>
 
