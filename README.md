@@ -2,7 +2,10 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Web+Development;App+Development;HACKING+as+a+hobby"  alt="Hello World!"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzakonthecode&label=Profile%20views&color=0e75b6&style=flat" alt="muzakonthecode" /> </p>
+<div style="display: flex;" align="left">
+  <img src="https://komarev.com/ghpvc/?username=muzakonthecode&label=Profile%20views&color=0e75b6&style=flat" alt="muzakonthecode" />
+  <a align="right" href="https://twitter.com/muzakonthecode" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/muzakonthecode?logo=twitter&style=for-the-badge" title="muzakonthecode" alt="muzakonthecode" /></a>
+</div>
 
 - 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
 
