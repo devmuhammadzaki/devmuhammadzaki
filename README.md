@@ -32,7 +32,7 @@
 <div>
   <h3 align="left">Technologies I've used:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,html,css,express,git,nodejs,py,react,c,cpp,sass,linux,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,ts,react,nodejs,express,py,c,cpp,linux,bash,powershell,git" />
   </div>
 </div>
 
