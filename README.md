@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzakonthecode&label=Profile%20views&color=0e75b6&style=flat" alt="muzakonthecode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muzakonthecode" target="blank"><img src="https://img.shields.io/twitter/follow/muzakonthecode?logo=twitter-followers&style=for-the-badge" alt="muzakonthecode" /></a> </p>
-
 - 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
 
 - 🌱 I’m currently learning **C/C++**
@@ -20,13 +18,6 @@
 
 - ⚡ Fun fact **I hate JavaScript.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzakonthecode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzakonthecode" height="30" width="40" /></a>
-<a href="https://instagram.com/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzakonthecode" height="30" width="40" /></a>
-</p>
-
 <div>
   <h3 align="left">Technologies I've used:</h3>
   <div align="left">
@@ -39,4 +30,3 @@
   <img width="476" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
 </div>
-
