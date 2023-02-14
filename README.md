@@ -25,7 +25,6 @@
 <a href="https://twitter.com/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzakonthecode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzakonthecode" height="30" width="40" /></a>
 <a href="https://instagram.com/muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzakonthecode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@muzakonthecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muzakonthecode" height="30" width="40" /></a>
 </p>
 
 <div>
