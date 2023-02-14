@@ -26,5 +26,5 @@
 <div style="display: flex;" align="left">
   <img width="345" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muzakonthecode" />
   <img width="476" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=cyan&hide_border=true" alt="muzakonthecode" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
 </div>
