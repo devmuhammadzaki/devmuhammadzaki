@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python!**
 
-- 📫 How to reach me **mahmadzekoo@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/14KNcJkBcn_dCLivzkib5IiwMTMr-rtsS/view](https://drive.google.com/file/d/14KNcJkBcn_dCLivzkib5IiwMTMr-rtsS/view)
 
 - ⚡ Fun fact **I hate JavaScript.**
@@ -37,8 +35,9 @@
   </div>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muzakonthecode" /></p>
+<div style="display: flex;" align="left">
+  <img width="345" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muzakonthecode" />
+  <img width="476" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></p>
