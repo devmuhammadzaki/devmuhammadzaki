@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/muzakonthecode/myPortfolio)
 
-- 👨‍💻 All of my projects are available at [https://muzakonthecode.github.io/myPortfolio/](https://muzakonthecode.github.io/myPortfolio/)
-
 - 💬 Ask me about **Python!**
 
 - ⚡ Fun fact **I hate JavaScript.**
