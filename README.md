@@ -4,9 +4,11 @@
 
 <h3 align="left">About me:</h3>
 
+- 👨 I'm an Aspiring Software Engineer from **Egypt!**
+
 - 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **C/C++!**
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/muzakonthecode/myPortfolio)
 
