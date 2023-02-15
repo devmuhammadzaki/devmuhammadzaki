@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **Python!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14KNcJkBcn_dCLivzkib5IiwMTMr-rtsS/view](https://drive.google.com/file/d/14KNcJkBcn_dCLivzkib5IiwMTMr-rtsS/view)
-
 - ⚡ Fun fact **I hate JavaScript.**
 
 <div>
