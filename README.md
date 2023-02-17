@@ -2,6 +2,8 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hi,+I'm+Muhammad;Here's+What+I+do;Web+Development;App+Development;HACKING+as+a+hobby"  alt="Hello World!"/>
 </div>
 
+![blueviolet](https://komarev.com/ghpvc/?username=muzakonthecode&color=green)
+
 <h3 align="left">About me:</h3>
 
 - 👨 I'm an Aspiring Software Engineer from **Egypt!**
