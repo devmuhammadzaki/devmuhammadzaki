@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
 
-- 🌱 I’m currently learning **C/C++!**
+- 🌱 I’m currently learning **DSA!**
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/muzakonthecode/myPortfolio)
 
