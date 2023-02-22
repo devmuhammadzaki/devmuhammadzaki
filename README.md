@@ -10,18 +10,18 @@
 
 - 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
 
-- 🌱 I’m currently learning **DSA!**
+- 🌱 I’m currently learning **PHP 🐘!**
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/muzakonthecode/myPortfolio)
 
-- 💬 Ask me about **Python!**
+- 💬 Ask me about **Python 🐍!**
 
 - ⚡ Fun fact **I hate JavaScript.**
 
 <div>
-  <h3 align="left">Technologies I've used:</h3>
+  <h3 align="left">Tech Stack:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,react,py,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,c,py,git,linux" />
   </div>
 </div>
 
