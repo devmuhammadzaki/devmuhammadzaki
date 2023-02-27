@@ -3,6 +3,7 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
+![](https://www.codewars.com/users/muzakonthecode/badges/micro)
 
 <h3 align="left">About me:</h3>
 
