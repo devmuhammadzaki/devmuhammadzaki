@@ -5,7 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/muzakonthecode.svg?style=social&label=Follow%20%40muzakonthecode)](https://twitter.com/muzakonthecode)
 ![](https://www.codewars.com/users/muzakonthecode/badges/micro)
-https://run.kaist.ac.kr/badges/muzakonthecode/jo_on.svg
 
 <h3 align="left">About me:</h3>
 
