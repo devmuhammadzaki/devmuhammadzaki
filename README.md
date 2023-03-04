@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PHP 🐘!**
 
-- ⚡ Fun fact **I hate JavaScript.**
+- ⚡ Fun fact: **I hate JavaScript.**
 
 <div>
   <h3 align="left">Tech Stack:</h3>
