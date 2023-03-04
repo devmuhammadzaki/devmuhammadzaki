@@ -8,7 +8,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨 I'm an Aspiring Software Engineer from **Egypt.**
+- 👨 I'm an Aspiring Software Developer from **Egypt.**
 
 - 🔭 I’m currently working on **a Full-Stack PHP Side-Project.**
 
