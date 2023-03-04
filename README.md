@@ -8,15 +8,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨 I'm an Aspiring Software Engineer from **Egypt!**
+- 👨 I'm an Aspiring Software Engineer from **Egypt.**
 
-- 🔭 I’m currently working on [a Chess Engine](https://github.com/muzakonthecode/Chessi)
+- 🔭 I’m currently working on **a Full-Stack PHP Side-Project.**
 
-- 🌱 I’m currently learning **C!**
+- 🌱 I’m currently learning **Laravel!**
 
-- 🤝 I’m looking for help with [My Portfolio](https://github.com/muzakonthecode/myPortfolio)
-
-- 💬 Ask me about **Python 🐍!**
+- 💬 Ask me about **PHP 🐘!**
 
 - ⚡ Fun fact **I hate JavaScript.**
 
