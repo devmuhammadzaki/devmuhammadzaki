@@ -19,7 +19,7 @@
 - ⚡ Fun fact: **I hate JavaScript.**
 
 <div>
-  <h3 align="left">Tech Stack:</h3>
+  <h3 align="left">Technologies I've used:</h3>
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,vue,react,php,laravel,mysql,python,c,cpp,git,linux" />
   </div>
