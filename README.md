@@ -21,7 +21,7 @@
 <div>
   <h3 align="left">Tech Stack:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vue,react,php,laravel,mysql,python,cpp,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,git,linux" />
   </div>
 </div>
 
