@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&width=535&lines=Hi,+I'm+Muhammad;an+Aspiring+Software+Developer;let's+Connect!"  alt="Hello World!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&width=535&lines=Hi,+I'm+Muhammad;I+love+Software;WBU?;let's+Connect!"  alt="Hello World!"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
