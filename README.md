@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div>
   <div style="text-align: center;"> 
     <img width="600" src="https://github.com/muzakonthecode/muzakonthecode/blob/main/pngwing.com.png"  alt="Hello World!"/>
   </div>
