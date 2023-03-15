@@ -19,7 +19,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ Fun fact: **I hate JavaScript.**
+  - ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky.**
 
   <div>
     <h3 align="left">Tech Stack:</h3>
