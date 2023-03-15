@@ -2,9 +2,9 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Hello World!"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
-![Twitter](https://badgen.net/badge/twitter/follow/@muzakonthecode)
-![](https://www.codewars.com/users/muzakonthecode/badges/micro)
+![profileviews](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Codewars](https://www.codewars.com/users/muzakonthecode/badges/micro)
 
 <h3 align="left">About me:</h3>
 
