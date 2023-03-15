@@ -3,7 +3,7 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
-![Twitter](https://badgen.net/badge/twitter/follow/muzakonthecode)
+![Twitter](https://badgen.net/badge/twitter/follow/@muzakonthecode)
 ![](https://www.codewars.com/users/muzakonthecode/badges/micro)
 
 <h3 align="left">About me:</h3>
