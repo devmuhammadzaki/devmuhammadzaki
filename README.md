@@ -1,7 +1,6 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://github.com/muzakonthecode/muzakonthecode/blob/main/pngwing.com.png"  alt="Hello World!"/>
+  <img width="800" src="https://github.com/muzakonthecode/muzakonthecode/blob/main/pngwing.com.png"  alt="Hello World!"/>
 </div>
-![banner]()
 
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
