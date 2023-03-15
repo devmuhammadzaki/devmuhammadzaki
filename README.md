@@ -3,7 +3,6 @@
 </div>
 
 ![profileviews](https://komarev.com/ghpvc/?username=muzakonthecode&color=blueviolet)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Codewars](https://www.codewars.com/users/muzakonthecode/badges/micro)
 
 <h3 align="left">About me:</h3>
