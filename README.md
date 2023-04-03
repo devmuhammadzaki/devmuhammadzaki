@@ -7,15 +7,15 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an Aspiring Software Developer from **Egypt**
+  - 👨 I'm an Aspiring Software Developer from **Egypt**.
 
-  - 🔭 I’m currently enrolled in the ALX Software Engineering Programme **(C12)**
+  - 🔭 I’m currently enrolled in the ALX Software Engineering Programme **(C12)**.
 
-  - 🌱 I’m currently learning **Laravel!**
+  - 🌱 I’m currently learning **Laravel**.
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky**
+  - ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky**.
 </div>
 
 <div>
