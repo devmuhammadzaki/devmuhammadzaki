@@ -9,11 +9,11 @@
 
   - 👨 I'm an Aspiring **Software Developer** and **Security Researcher** from **Egypt**.
 
-  - 🔭 I’m currently enrolled in the **ALX** Software Engineering Programme **(C12)**.
+  - 🔭 I’m currently focused on web development with **PHP**.
 
   - 🌱 I’m currently learning **Laravel**.
 
-  - 💬 Ask me about **PHP 🐘!**
+  - 💬 Ask me about **Python 🐍!**
 
   - ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky**.
 </div>
