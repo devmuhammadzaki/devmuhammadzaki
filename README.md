@@ -25,6 +25,13 @@
   </div>
 </div>
 
+<div>
+  <h3 align="left">languages That I love:</h3>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=typescript,python,c" />
+  </div>
+</div>
+
 <div style="display: flex;" align="left">
   <h3 align="left">Stats:</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
