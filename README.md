@@ -19,16 +19,9 @@
 </div>
 
 <div>
-  <h3 align="left">Tech Stack:</h3>
+  <h3 align="left">Technologies & Tools:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,git,linux" />
-  </div>
-</div>
-
-<div>
-  <h3 align="left">languages That I love:</h3>
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,python,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vue,php,laravel,mysql,mysql-workbench,git,vscode,linux" />
   </div>
 </div>
 
