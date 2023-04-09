@@ -21,7 +21,7 @@
 <div>
   <h3 align="left">Technologies & Tools:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vue,php,laravel,mysql,workbench,git,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vue,php,laravel,mysql,git,apache,linux" />
   </div>
 </div>
 
