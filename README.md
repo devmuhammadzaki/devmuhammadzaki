@@ -26,13 +26,7 @@
 </div>
 
 <div align="center">
- 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true&hide_border=true" /></a>
- 
-</div>
-
-<div align="center">
-  <h3 align="left">Stats:</h3>
+  <h3 align="left">My Stats:</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
 </div>
