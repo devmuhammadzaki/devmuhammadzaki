@@ -3,7 +3,7 @@
 </div>
 
 <div algin="left">
-<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=green" alt="Profile views" />
 <img src="https://www.codewars.com/users/muzakonthecode/badges/micro" alt="Codewars"/>
 </div>
   
@@ -30,6 +30,6 @@
 
 <div align="center">
   <h3 align="left">My Stats:</h3>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=algolia&hide_border=true" alt="muzakonthecode" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
 </div>
