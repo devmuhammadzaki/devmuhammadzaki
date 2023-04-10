@@ -16,7 +16,7 @@
 
   - 🌱 I’m currently learning **Laravel**.
 
-  - 💬 Ask me about **Python 🐍!**
+  - 💬 Ask me about **PHP 🐘!**
 
   - ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky**.
 </div>
