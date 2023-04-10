@@ -2,7 +2,9 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
+<div>
 <img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=blue" alt="Profile views" />
+</div>
 ![Codewars](https://www.codewars.com/users/muzakonthecode/badges/micro)
 
 <div>
