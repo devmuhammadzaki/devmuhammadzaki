@@ -30,6 +30,6 @@
 
 <div align="center">
   <h3 align="left">My Stats:</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=radical&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=radical&hide_border=true" alt="muzakonthecode" />
 </div>
