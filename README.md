@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=blue" alt="Profile views" />
 </div>
 <div>
-![Codewars](https://www.codewars.com/users/muzakonthecode/badges/micro)
+<img src="https://www.codewars.com/users/muzakonthecode/badges/micro" alt="Codewars"/>
 </div>
   
 <div>
