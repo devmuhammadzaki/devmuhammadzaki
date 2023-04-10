@@ -5,8 +5,10 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=blue" alt="Profile views" />
 </div>
+<div>
 ![Codewars](https://www.codewars.com/users/muzakonthecode/badges/micro)
-
+</div>
+  
 <div>
   <h3 align="left">About me:</h3>
 
