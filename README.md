@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently focused on Full-Stack Web development with **LAMP stack**.
 
-  - 🌱 I’m currently learning **Laravel**.
+  - 🌱 I’m currently learning **Rust 🦀**.
 
   - 💬 Ask me about **PHP 🐘!**
 
