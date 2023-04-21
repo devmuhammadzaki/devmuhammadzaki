@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently focused on Full-Stack Web development with **LAMP stack**.
 
-  - 🌱 I’m currently learning **DSA with Typescript**.
+  - 🌱 I’m currently learning **DSA with JavaScript**.
 
   - 💬 Ask me about **PHP 🐘!**
 
@@ -24,7 +24,7 @@
 <div>
   <h3 align="left">Technologies & Tools:</h3>
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,typescript,php,laravel,mysql,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,typescript,python,c,php,laravel,mysql,git,linux" />
   </div>
 </div>
 
