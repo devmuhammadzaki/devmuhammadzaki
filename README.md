@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently focused on Full-Stack Web development with **LAMP stack**.
 
-  - 🌱 I’m currently learning **DSA with JavaScript**.
+  - 🌱 I’m currently learning **Data Structures in C**.
 
   - 💬 Ask me about **PHP 🐘!**
 
