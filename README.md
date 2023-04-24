@@ -12,9 +12,9 @@
 
   - 👨 I'm an Aspiring **Software Developer** and **Security Researcher** from **Egypt**.
 
-  - 🔭 I’m currently focused on Full-Stack Web development with **LAMP stack**.
+  - 🔭 I work in Full-Stack Web development with the **LAMP** Stack.
 
-  - 🌱 I’m currently learning **Data Structures in C**.
+  - 🌱 I’m currently learning Data Structures in **Typescript**.
 
   - 💬 Ask me about **PHP 🐘!**
 
