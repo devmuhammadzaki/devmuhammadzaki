@@ -10,11 +10,11 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an Aspiring **Software Developer** and **Security Researcher** from **Egypt**.
+  - 👨 I'm an Aspiring **Software Developer** from **Egypt**.
 
-  - 🔭 I work in Full-Stack Web development with the **LAMP** Stack.
+  - 🔭 I work in Full Stack web development with the **LAMP** Stack.
 
-  - 🌱 I’m currently learning Data Structures in **Typescript**.
+  - 🌱 I’m currently learning Data Structures using **C/C++**.
 
   - 💬 Ask me about **PHP 🐘!**
 
