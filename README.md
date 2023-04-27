@@ -14,7 +14,7 @@
 
   - 🔭 I work in Full Stack web development with the **LAMP** Stack.
 
-  - 🌱 I’m currently learning Data Structures and Algorithms using **C/C++**.
+  - 🌱 I’m currently learning Data Structures and Algorithms using **C**.
 
   - 💬 Ask me about **PHP 🐘!**
 
