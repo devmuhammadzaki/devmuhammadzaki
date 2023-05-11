@@ -12,7 +12,7 @@
 
   - 👨 I'm an Aspiring **Software Engineer** from **Egypt**.
 
-  - 🔭 I work in Full Stack web development with the **LAMP** Stack.
+  - 🔭 I work in Full-Stack Web Development with the **LAMP** Stack.
 
   - 🌱 I’m currently learning Data Structures and Algorithms using **C**.
 
