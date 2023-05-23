@@ -10,9 +10,9 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an Aspiring **Software Engineer** from **Egypt**.
+  - 👨 I'm an Aspiring **Software Developer** & **Cyber Security Analyst** from **Egypt**.
 
-  - 🔭 I work in Full-Stack Web Development with the **LAMP** Stack.
+  - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue** Stack.
 
   - 🌱 I’m currently learning Data Structures and Algorithms using **C**.
 
