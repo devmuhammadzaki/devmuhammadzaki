@@ -24,7 +24,7 @@
 <div>
   <h3 align="left">Tech Stack:</h3>
   <div style="display: grid;">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,php,laravel,mysql,c,python,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,php,laravel,mysql,c,python,go,git,linux,emacs,vscode" />
   </div>
 </div>
 
