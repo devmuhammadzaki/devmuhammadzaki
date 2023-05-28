@@ -24,7 +24,7 @@
 <div>
   <h3 align="left">Languages and Tools:</h3>
   <div style="display: grid;">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,c,python,git,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,c,python,git,linux,vscode" />
   </div>
 </div>
 
