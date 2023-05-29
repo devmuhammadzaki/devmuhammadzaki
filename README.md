@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=0021f3&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00ff00&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
 <div algin="left">
@@ -31,5 +31,5 @@
 <div align="center">
   <h3 align="left">My Stats:</h3>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=dark&hide_border=true" alt="muzakonthecode" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
 </div>
