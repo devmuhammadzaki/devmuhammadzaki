@@ -1,9 +1,9 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=22F738&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=#00ff00&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
 <div algin="left">
-<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=magenta" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=blue" alt="Profile views" />
 <img src="https://www.codewars.com/users/muzakonthecode/badges/micro" alt="Codewars"/>
 </div>
   
