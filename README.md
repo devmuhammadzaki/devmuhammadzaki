@@ -3,7 +3,7 @@
 </div>
 
 <div algin="left">
-<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=green" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=magenta" alt="Profile views" />
 <img src="https://www.codewars.com/users/muzakonthecode/badges/micro" alt="Codewars"/>
 </div>
   
