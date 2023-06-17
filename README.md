@@ -14,7 +14,7 @@
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue** Stack.
 
-  - 🌱 I’m currently learning the **Go** Programming language.
+  - 🌱 I’m currently learning ![Data Structures and Algotithms!](https://github.com/muzakonthecode/My-DSA).
 
   - 💬 Ask me about **PHP 🐘!**
 
