@@ -18,7 +18,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *It is physically impossible for pigs to look up into the sky*.
+  - ⚡ **fun fact**: *The heart of a shrimp is located in its head. They also have an open circulatory system, which means they have no arteries and their organs float directly in blood.*.
 </div>
 
 <div>
