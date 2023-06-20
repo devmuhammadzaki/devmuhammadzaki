@@ -14,7 +14,7 @@
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue** Stack.
 
-  - 🌱 I’m currently learning ![Data Structures and Algotithms!](https://github.com/muzakonthecode/My-DSA).
+  - 🌱 I’m currently learning [Data Structures and Algotithms!](https://github.com/muzakonthecode/My-DSA).
 
   - 💬 Ask me about **PHP 🐘!**
 
@@ -25,7 +25,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,c,python,git,linux,vscode,neovim&perline=10" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,c,python,git,linux,neovim&perline=10" />
       </a>
     </p>
 </div>
