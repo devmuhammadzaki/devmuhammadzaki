@@ -12,7 +12,7 @@
 
   - 👨 I'm an Aspiring **Software Developer** from **Egypt**.
 
-  - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue** Stack.
+  - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
   - 💬 Ask me about **PHP 🐘!**
 
