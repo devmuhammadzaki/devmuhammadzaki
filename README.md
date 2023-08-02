@@ -28,8 +28,14 @@
     </p>
 </div>
 
-<div>
-  <h3 align="left">My Stats:</h3>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&locale=en&hide_border=true" alt="muzakonthecode" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" />
+### Latest Projects 
+
+Here are some of the projects I have been working on recently
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=My-DSA&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=My-Blog&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+### My Stats
+
+<div align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" /></a>
 </div>
