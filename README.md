@@ -23,7 +23,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,git" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,c,cpp,git" />
       </a>
     </p>
 </div>
@@ -36,8 +36,5 @@
 ### My Stats:
 
 <div align="left">
-<a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></a> <a href="https://github.com/muzakonthecode"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&hide_border=true" /></a>
-<a href="https://github.com/muzakonthecode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakonthecode&theme=gotham&layout=donut-vertical&hide_border=true" />
-</a>  
+<a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></a><a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&hide_border=true" /></a><a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakonthecode&theme=gotham&layout=compact&hide_border=true" /></a> 
 </div>
