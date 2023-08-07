@@ -38,6 +38,6 @@
 <div align="left">
 <a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></a> <a href="https://github.com/muzakonthecode"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" /></a>
 <a href="https://github.com/muzakonthecode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakonthecode&theme=gotham&layout=compact&hide_border=true&hide=html,css,vimscript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakonthecode&theme=gotham&layout=compact&hide_border=true&hide=html,css" />
 </a>  
 </div>
