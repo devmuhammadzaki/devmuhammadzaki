@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00f200&width=535&lines=Hi,+I'm+Muhammad;I+love+Software.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00f200&width=535&lines=Hi,+I'm+Muhammad;I+love+Computers.;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
 <div algin="left">
@@ -10,7 +10,7 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an Aspiring **Software Developer** from **Egypt**.
+  - 👨 I'm an Aspiring **Software Developer & Cybersecurity Analyst** from **Egypt**.
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
