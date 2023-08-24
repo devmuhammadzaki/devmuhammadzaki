@@ -23,7 +23,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/muzakonthecode">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,git,linux" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,c,cpp,python,git,linux" />
       </a>
     </p>
 </div>
