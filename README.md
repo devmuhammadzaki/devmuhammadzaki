@@ -10,7 +10,7 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an Aspiring **Software Developer & Cybersecurity Analyst** from **Egypt**.
+  - 👨 I'm an Aspiring **Software Developer** from **Egypt**.
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
@@ -23,7 +23,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/muzakonthecode">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,cs,python,git" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,git" />
       </a>
     </p>
 </div>
