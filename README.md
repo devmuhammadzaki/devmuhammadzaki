@@ -30,7 +30,7 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=My-DSA&theme=gotham&hide_border=true)](https://github.com/muzakonthecode/My-DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=watches-store&theme=gotham&hide_border=true)](https://github.com/muzakonthecode/watches-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=toedoe-list-vue&theme=gotham&hide_border=true)](https://github.com/muzakonthecode/toedoe-list-vue)
 
 ### My Stats:
