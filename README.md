@@ -10,7 +10,7 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm a **Junior Software Developer** from **Egypt**.
+  - 👨 I'm a **Aspiring Web Developer** from **Egypt**.
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
