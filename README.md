@@ -14,7 +14,7 @@
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
-  - 💬 Ask me about **PHP 🐘!**
+  - 💬 Ask me about **Python 🐍!**
 
   - ⚡ **fun fact**: *The heart of a shrimp is located in its head. They also have an open circulatory system, which means they have no arteries and their organs float directly in blood.*.
 </div>
@@ -23,7 +23,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/muzakonthecode">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,git" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,c,git" />
       </a>
     </p>
 </div>
