@@ -14,6 +14,8 @@
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
+  - 🖥️ interested in everything related to Cyber Security and Computer Hardware.
+
   - 💬 Ask me about **PHP 🐘!**
 
   - ⚡ **fun fact**: *The heart of a shrimp is located in its head. They also have an open circulatory system, which means they have no arteries and their organs float directly in blood.*.
