@@ -14,7 +14,7 @@
 
   - 🔭 I work in Full-Stack Web Development with the **Laravel/Vue.js & Tailwind CSS** Stack.
 
-  - 🖥️ interested in everything related to Cyber Security and Computer Hardware.
+  - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
 
   - 💬 Ask me about **PHP 🐘!**
 
