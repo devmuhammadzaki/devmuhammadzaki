@@ -3,8 +3,8 @@
 </div>
 
 <div algin="left">
-<img src="https://komarev.com/ghpvc/?username=muzakonthecode&color=green" alt="Profile views" />
-<img src="https://www.codewars.com/users/muzakonthecode/badges/micro" alt="Codewars"/>
+<img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
+<img src="https://www.codewars.com/users/0xAlMo3geZ/badges/micro" alt="Codewars"/>
 </div>
   
 <div>
@@ -24,7 +24,7 @@
 <div>
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
-      <a href="https://github.com/muzakonthecode">
+      <a href="https://github.com/0xAlMo3geZ">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,git,linux,vscode" />
       </a>
     </p>
@@ -32,11 +32,11 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=toedoe-list-api&theme=gotham&hide_border=true)](https://github.com/muzakonthecode/toedoe-list-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muzakonthecode&repo=music-app&theme=gotham&hide_border=true)](https://github.com/muzakonthecode/music-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=toedoe-list-api&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/toedoe-list-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=music-app&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/music-app)
 
 ### My Stats:
 
 <div align="left">
-<a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzakonthecode&theme=gotham&hide_border=true" alt="muzakonthecode" /></a><a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzakonthecode&theme=gotham&show_icons=true&hide_border=true" /></a><a href="https://github.com/muzakonthecode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzakonthecode&theme=gotham&layout=compact&hide_border=true" /></a> 
+<a href="https://github.com/0xAlMo3geZ"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" alt="0xAlMo3geZ" /></a><a href="https://github.com/0xAlMo3geZ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=true" /></a><a href="https://github.com/0xAlMo3geZ"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlMo3geZ&theme=gotham&layout=compact&hide_border=true" /></a> 
 </div>
