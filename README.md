@@ -16,7 +16,7 @@
 
   - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
 
-  - 💬 Ask me about **PHP 🐘!**
+  - 💬 Ask me about **Python 🐍!**
 
   - ⚡ **fun fact**: *The heart of a shrimp is located in its head. They also have an open circulatory system, which means they have no arteries and their organs float directly in blood.*.
 </div>
@@ -25,7 +25,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,git,linux,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php, python,laravel,fastapi,mysql,postgresql,git,linux,vscode" />
       </a>
     </p>
 </div>
