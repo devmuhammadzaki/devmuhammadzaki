@@ -10,7 +10,7 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm a **Aspiring Software Developer** from **Egypt**.
+  - 👨 I'm an **Aspiring Software Developer** from **Egypt**.
 
   - 🔭 I work in the Web Development field as a **Full-Stack Web Developer**.
 
@@ -25,7 +25,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php, python,laravel,fastapi,mysql,postgresql,git,linux,vscode" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,python,laravel,fastapi,mysql,postgresql,git,linux,vscode" />
       </a>
     </p>
 </div>
