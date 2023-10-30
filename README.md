@@ -15,6 +15,8 @@
   - 🔭 I work in the Web Development field as a **Full-Stack Web Developer**.
 
   - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
+ 
+  - 🎨 I also like to **Draw** and play **Chess**.
 
   - 💬 Ask me about **Python 🐍!**
 
