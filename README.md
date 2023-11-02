@@ -16,7 +16,7 @@
 
   - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
  
-  - 🎨 I also like to **Draw** and play **Chess**.
+  - 🎨 I like **football** and I also like to **Draw** and play **Chess**.
 
   - 💬 Ask me about **Python 🐍!**
 
