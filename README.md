@@ -14,7 +14,7 @@
 
   - 🔭 I work in the Web Development field as a **Full-Stack Web Developer**.
 
-  - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
+  - 🖥️ Interested in Mobile App Development with **React Native**.
  
   - 🎨 I also like to **Draw** and play **Chess**.
 
@@ -27,7 +27,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,python,laravel,fastapi,mysql,postgresql,git,linux,vscode&perline=11" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,php,laravel,mysql,python,reactnative,git,linux,vscode&perline=11" />
       </a>
     </p>
 </div>
