@@ -3,9 +3,9 @@
 </div>
 
 <div algin="left">
-<img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
-<img src="https://www.codewars.com/users/0xAlMo3geZ/badges/micro" alt="Codewars"/>
-<a href="https://0xalmo3gez.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
+  <img src="https://www.codewars.com/users/0xAlMo3geZ/badges/micro" alt="Codewars"/>
+  <a href="https://0xalmo3gez.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Profile views" /></a>
 </div>
   
 <div>
