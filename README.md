@@ -3,14 +3,14 @@
 </div>
 
 <div algin="left">
-  <a href="https://my-portfolio-nine-nu-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Profile views" /></a>
-</div>
-
-<div algin="left">
   <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
   <img src="https://www.codewars.com/users/0xAlMo3geZ/badges/micro" alt="Codewars"/>
 </div>
-  
+
+<div algin="left">
+  <a href="https://my-portfolio-nine-nu-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Profile views" /></a>
+</div>
+
 <div>
   <h3 align="left">About me:</h3>
 
