@@ -8,7 +8,7 @@
 </div>
 
 <div algin="left">
-  <a href="https://my-portfolio-nine-nu-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Profile views" /></a>
+  <a href="https://my-portfolio-nine-nu-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <div>
