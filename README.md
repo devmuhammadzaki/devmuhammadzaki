@@ -16,11 +16,9 @@
 
   - 👨 I'm an **Aspiring Software Developer** from **Egypt**.
 
-  - 🔭 I work in the Web Development field as a **Full-Stack Web Developer**.
-
-  - 🖥️ Interested in everything related to **Cyber Security** and **Computer Hardware**.
+  - 💻 I work in the Web Development field as a **Full-Stack Web Developer**.
  
-  - 🎨 I like **football** and I also like to **Draw** and play **Chess**.
+  - 🎨⚽♟️ I love **Football**, enjoy **Drawing**, and like playing **Chess**.
 
   - 💬 Ask me about **Python 🐍!**
 
