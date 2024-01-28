@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **Python 🐍!**
 
-  - ⚡ **fun fact**: *The heart of a shrimp is located in its head. They also have an open circulatory system, which means they have no arteries and their organs float directly in blood.*.
+  - ⚡ **fun fact**: *'Personal Home Page' is the original name of PHP*.
 </div>
 
 <div>
