@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00f200&width=535&lines=Hi;I'm+Muhammad.;I+love+Computers!;WBU?;let's+Connect+<3"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00f200&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3"  alt="Follow your Dreams!"/>
 </div>
 
 <div algin="left">
