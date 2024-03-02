@@ -29,7 +29,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,mysql,vue,laravel,python,zig,git,linux&perline=10" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,mysql,vue,laravel,python,rust,git,linux&perline=10" />
       </a>
     </p>
 </div>
