@@ -20,7 +20,7 @@
  
   - 🎨⚽♟️ I love **Football**, enjoy **Drawing**, and like playing **Chess**.
 
-  - 💬 Ask me about **Python 🐍!**
+  - 💬 Ask me about **Rust 🦀!**
 
   - ⚡ **fun fact**: *'Personal Home Page' is the original name of PHP*.
 </div>
