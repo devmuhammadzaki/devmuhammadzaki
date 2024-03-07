@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **Rust 🦀!**
 
-  - ⚡ **fun fact**: *'Personal Home Page' is the original name of PHP*.
+  - ⚡ **fun fact**: *Python was not named after a snake*.
 </div>
 
 <div>
