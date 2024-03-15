@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **Rust 🦀!**
 
-  - ⚡ **fun fact**: *Python was not named after a snake*.
+  - ⚡ **fun fact**: *Today, NASA still uses programs that are dated in the 70s for their spacecraft*.
 </div>
 
 <div>
