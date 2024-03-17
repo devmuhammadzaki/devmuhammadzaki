@@ -20,7 +20,7 @@
  
   - 🎨⚽♟️ I love **Football**, enjoy **Drawing**, and like playing **Chess**.
 
-  - 💬 Ask me about **Rust 🦀!**
+  - 💬 Ask me about **PHP 🐘!**
 
   - ⚡ **fun fact**: *Today, NASA still uses programs that are dated in the 70s for their spacecraft*.
 </div>
@@ -29,7 +29,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,vue,laravel,python,rust,git,linux" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,laravel,mysql,python,git,linux" />
       </a>
     </p>
 </div>
