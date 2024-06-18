@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *Today, NASA still uses programs that are dated in the 70s for their spacecraft*.
+  - ⚡ **fun fact**: *Coding Bugs were NOT named after an actual bug*.
 </div>
 
 <div>
