@@ -17,8 +17,6 @@
   - 👨 I'm an **Aspiring Software Developer** from **Egypt**.
 
   - 💻 I work in the Web Development field as a **Full-Stack Web Developer**.
- 
-  - 🎨⚽♟️ I love **Football**, enjoy **Drawing**, and like playing **Chess**.
 
   - 💬 Ask me about **PHP 🐘!**
 
