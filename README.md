@@ -22,7 +22,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *Coding Bugs were NOT named after an actual bug*.
+  - ⚡ **fun fact**: *The computer game industry is making more money than the movie industry*.
 </div>
 
 <div>
