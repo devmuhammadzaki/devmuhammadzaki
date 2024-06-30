@@ -20,7 +20,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *Competitive art used to be an Olympic sport*.
+  - ⚡ **fun fact**: *Coding Bugs were NOT named after an actual bug.*
 </div>
 
 <div>
