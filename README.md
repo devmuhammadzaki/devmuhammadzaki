@@ -16,7 +16,7 @@
 
   - 👨 I'm an **Aspiring Software Engineer** from **Egypt**.
 
-  - 💻 I love coding and I work in the field of Web Development as a **Full-Stack Engineer**.
+  - 💻 I love coding and I work in the field of Web Development as a **Full-Stack Software Engineer**.
 
   - 💬 Ask me about **PHP 🐘!**
 
