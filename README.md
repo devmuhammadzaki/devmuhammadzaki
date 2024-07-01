@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=00f200&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=6AA84F&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3"  alt="Follow your Dreams!"/>
 </div>
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
