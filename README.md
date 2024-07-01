@@ -3,8 +3,8 @@
 </div>
 
 <div algin="left">
-  <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
   <a href="https://my-portfolio-nine-nu-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
 </div>
 
 <div>
