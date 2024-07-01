@@ -14,9 +14,9 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an **Aspiring Software Engineer** from **Egypt**.
+  - 👨 I'm an **Aspiring Software Developer** from **Egypt**.
 
-  - 💻 I love coding and I work in the field of Web Development as a **Full-Stack Software Engineer**.
+  - 💻 I love coding and I work in the field of Web Development as a **Full-Stack Web Developer**.
 
   - 💬 Ask me about **PHP 🐘!**
 
