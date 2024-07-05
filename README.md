@@ -25,7 +25,7 @@
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
       <a href="https://github.com/0xAlMo3geZ">
-        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,mysql,laravel,python,git,linux&perline=11" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,mysql,laravel,python,git,linux,windows&perline=11" />
       </a>
     </p>
 </div>
