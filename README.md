@@ -47,5 +47,5 @@
 ### My Stats:
 
 <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=false" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=false&hide_rank=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=false" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=false&hide_rank=true" />
 </div>
