@@ -35,17 +35,11 @@
 
 ### Latest Projects: 
 
-<div align="left">
-    <a href="https://github.com/0xAlMo3geZ?tab=repositories">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=false" /> <img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=false" />
-    </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/laragigs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=music-app&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/music-app)
 
 ### My Stats:
 
 <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=false" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=false&hide_rank=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
 </div>
