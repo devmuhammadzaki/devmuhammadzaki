@@ -39,7 +39,7 @@
     <a href="https://github.com/0xAlMo3geZ?tab=repositories">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=false" /> <img
-            align="center"
+            align="left"
             src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=false" />
     </a>
 </div>
