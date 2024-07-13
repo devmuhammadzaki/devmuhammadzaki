@@ -3,7 +3,9 @@
 </div>
 
 <div algin="left">
-  <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
+    <a href="https://github.com/0xAlMo3geZ">
+        <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
+    </a>  
 </div>
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
@@ -36,14 +38,14 @@
 <div align="left">
     <a href="https://github.com/0xAlMo3geZ?tab=repositories">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=true" /><img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=false" /> <img
             align="center"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=false" />
     </a>
 </div>
 
 ### My Stats:
 
 <div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=false" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=false&hide_rank=true" />
 </div>
