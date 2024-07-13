@@ -23,9 +23,12 @@
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
-    <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,vue,nuxt,php,laravel,mysql,git,linux&perline=13" />
-    </p>
+    <a href="https://github.com/0xAlMo3geZ">
+        <p align="center">
+            <img
+                src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,vue,nuxt,php,laravel,mysql,git,linux&perline=13" />
+        </p>
+    </a>
 </div>
 
 ### Latest Projects: 
@@ -35,7 +38,7 @@
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=true" /><img
             align="center"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=music-app&theme=gotham&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=true" />
     </a>
 </div>
 
