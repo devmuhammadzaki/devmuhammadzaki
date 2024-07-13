@@ -36,7 +36,7 @@
 ### Latest Projects: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/laragigs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=music-app&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/music-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/larazillow)
 
 ### My Stats:
 
