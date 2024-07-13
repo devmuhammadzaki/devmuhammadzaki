@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=6AA84F&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=6AA84F&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3" />
 </div>
 
 <div algin="left">
@@ -24,9 +24,7 @@
 <div>
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
-      <a href="https://github.com/0xAlMo3geZ">
         <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,vue,nuxt,php,laravel,mysql,git,linux&perline=13" />
-      </a>
     </p>
 </div>
 
@@ -38,5 +36,5 @@
 ### My Stats:
 
 <div align="left">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAlMo3geZ&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
 </div>
