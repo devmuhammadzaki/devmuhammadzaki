@@ -20,7 +20,7 @@
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *Coding Bugs were NOT named after an actual bug*.
+  - ⚡ **fun fact**: *Coding Bugs were NOT named after an actual bug.*
 </div>
 
 <div>
