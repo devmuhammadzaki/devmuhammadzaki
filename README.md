@@ -42,6 +42,6 @@
 
 <div align="left">
     <a href="https://github.com/0xAlMo3geZ">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlMo3geZ&theme=gotham&hide_border=true" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAlMo3geZ&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlMo3geZ&theme=gotham&layout=compact&hide_border=true" />
     </a>
 </div>
