@@ -28,7 +28,7 @@
     <a href="https://github.com/0xAlMo3geZ">
         <p align="center">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,vue,nuxt,php,laravel,mysql,git,linux&perline=13" />
+                src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,vue,nuxt,php,laravel,mysql,git,linux&perline=13" />
         </p>
     </a>
 </div>
