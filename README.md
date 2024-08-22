@@ -7,10 +7,8 @@
 <div algin="left">
     <a href="https://github.com/0xAlMo3geZ">
         <img src="https://komarev.com/ghpvc/?username=0xAlMo3geZ&color=green" alt="Profile views" />
-    </a>
-    <div>
         <img src="https://www.codewars.com/users/0xAlMo3geZ/badges/micro" alt="Codewars Profile" />
-    </div>
+    </a>
 </div>
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
