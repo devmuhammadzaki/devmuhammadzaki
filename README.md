@@ -29,7 +29,7 @@
     <a href="https://github.com/0xAlMo3geZ">
         <p align="center">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,laravel,mysql,git,linux,aws&perline=11" />
+                src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,laravel,mysql,git,linux,aws&perline=12" />
         </p>
     </a>
 </div>
