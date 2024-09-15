@@ -38,7 +38,7 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=laragigs&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/laragigs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=amazon-clone&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/amazon-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xAlMo3geZ&repo=larazillow&theme=gotham&hide_border=true)](https://github.com/0xAlMo3geZ/larazillow)
 
 ### My Stats:
