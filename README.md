@@ -17,7 +17,7 @@
 
   - 👨 I'm an **Experienced Software Developer** from **Egypt**.
 
-  - 💻 I have *2+* years of experience in Web Development as a **Full-Stack Developer**.
+  - 💻 I have **2+** years of experience in Web Development as a **Full-Stack Developer**.
   
   - 🎨 I love **Drawing, Chess, and Football**.
 
