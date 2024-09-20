@@ -18,8 +18,6 @@
   - 👨 I'm an **Experienced Software Developer** from **Egypt**.
 
   - 💻 I have **2+** years of experience in Web Development as a **Full-Stack Developer**.
-  
-  - 🎨 I love **Drawing, Chess, and Football**.
 
   - 💬 Ask me about **PHP 🐘!**
 
@@ -31,7 +29,7 @@
     <a href="https://github.com/0xAlMo3geZ">
         <p align="center">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,php,laravel,mysql,git,linux,aws&perline=12" />
+                src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,laravel,mysql,git,linux,aws&perline=11" />
         </p>
     </a>
 </div>
