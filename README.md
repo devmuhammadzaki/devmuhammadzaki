@@ -1,6 +1,6 @@
 <div style="text-align: center;"> 
   <a href="https://github.com/0xAlMo3geZ">
-        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=6AA84F&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Computers!;WBU?;let's+Connect+<3" />
+        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&color=6AA84F&width=535&lines=Hi..;I'm+Muhammad+(:;I+love+Coding+<3;WBU?;let's+Connect+<3" />
     </a>
 </div>
 
@@ -29,7 +29,7 @@
     <a href="https://github.com/0xAlMo3geZ">
         <p align="center">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,laravel,mysql,git,linux,docker,aws&perline=12" />
+                src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,php,laravel,mysql,git,linux,aws&perline=12" />
         </p>
     </a>
 </div>
