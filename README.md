@@ -10,7 +10,7 @@
 </div>
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
-[![Readme badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%236AA84F&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevmuhammadzaki&logo=leetcode&logoColor=green)](https://leetcode.com/devmuhammadzaki/)
+[![Readme badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%236AA84F&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F0xAlMo3geZ&logo=leetcode&logoColor=green)](https://leetcode.com/0xAlMo3geZ/)
 
 <div>
   <h3 align="left">About me:</h3>
