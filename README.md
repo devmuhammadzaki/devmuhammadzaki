@@ -6,7 +6,9 @@
 
 <div algin="left">
         <img src="https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green" alt="Profile views" />
-        <img src="https://www.codewars.com/users/devmuhammadzaki/badges/micro" alt="Codewars Profile" />
+        <a href="https://www.codewars.com/users/devmuhammadzaki">
+              <img src="https://www.codewars.com/users/devmuhammadzaki/badges/micro" alt="Codewars Profile" />
+        </a>
 </div>
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
