@@ -6,11 +6,7 @@
 
 [![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://github.com/devmuhammadzaki)
 [![Readme badge](https://codeforces-readme-stats.vercel.app/api/badge?username=devmuhammadzaki)](https://codeforces.com/profile/devmuhammadzaki)
-<div algin="left">
-        <a href="https://www.codewars.com/users/devmuhammadzaki">
-              <img src="https://www.codewars.com/users/devmuhammadzaki/badges/micro" alt="Codewars Profile" />
-        </a>
-</div>
+[![Readme badge](https://www.codewars.com/users/devmuhammadzaki/badges/micro)](https://www.codewars.com/users/devmuhammadzaki)
 
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
 [![Readme badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%236AA84F&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevmuhammadzaki&logo=leetcode&logoColor=green)](https://leetcode.com/devmuhammadzaki/)
