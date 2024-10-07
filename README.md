@@ -4,7 +4,7 @@
     </a>
 </div>
 
-[![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://my-portfolio-nine-nu-78.vercel.app/)
+[![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://github.com/devmuhammadzaki)
 [![Readme badge](https://codeforces-readme-stats.vercel.app/api/badge?username=devmuhammadzaki)](https://codeforces.com/profile/devmuhammadzaki)
 <div algin="left">
         <a href="https://www.codewars.com/users/devmuhammadzaki">
