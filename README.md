@@ -4,11 +4,9 @@
     </a>
 </div>
 
+[![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://my-portfolio-nine-nu-78.vercel.app/)
+[![Readme badge](https://codeforces-readme-stats.vercel.app/api/badge?username=devmuhammadzaki)](https://codeforces.com/profile/devmuhammadzaki)
 <div algin="left">
-        <img src="https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green" alt="Profile views" />
-        <a href="https://codeforces.com/profile/devmuhammadzaki">
-              <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=devmuhammadzaki" alt="Codeforces Profile" />
-        </a>
         <a href="https://www.codewars.com/users/devmuhammadzaki">
               <img src="https://www.codewars.com/users/devmuhammadzaki/badges/micro" alt="Codewars Profile" />
         </a>
