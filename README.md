@@ -5,7 +5,6 @@
 </div>
 
 [![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://github.com/devmuhammadzaki)
-[![Readme badge](https://codeforces-readme-stats.vercel.app/api/badge?username=devmuhammadzaki)](https://codeforces.com/profile/devmuhammadzaki)
 [![Readme badge](https://www.codewars.com/users/devmuhammadzaki/badges/micro)](https://www.codewars.com/users/devmuhammadzaki)
 <br>
 [![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-nine-nu-78.vercel.app/)
