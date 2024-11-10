@@ -34,7 +34,7 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=amazon-clone&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/amazon-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=larazillow&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/larazillow)
 
 ### My Stats:
