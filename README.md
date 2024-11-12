@@ -34,7 +34,7 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=amazon-clone&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/amazon-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=larazillow&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/larazillow)
 
 ### My Stats:
@@ -44,3 +44,7 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhammadzaki&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
     </a>
 </div>
+
+### Checkout my PHP Developer Roadmap:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=php-developer-roadmap&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/php-developer-roadmap)
