@@ -27,7 +27,7 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,sass,jquery,bootstrap,tailwind,vue,php,laravel,mysql,git,linux,docker,aws&perline=15" />
+                src="https://skillicons.dev/icons?i=html,css,js,typescript,sass,jquery,bootstrap,tailwind,vue,angular,csharp,mssqlserver,asp.net,php,laravel,mysql,git,linux,docker,aws&perline=14" />
         </p>
     </a>
 </div>
