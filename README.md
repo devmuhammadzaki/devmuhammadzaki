@@ -35,7 +35,7 @@
 ### Latest Projects: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=larazillow&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/larazillow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
 
 ### My Stats:
 
