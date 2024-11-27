@@ -27,7 +27,7 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,sass,jquery,bootstrap,tailwind,vue,angular,cs,sqlserver,php,laravel,mysql,git,linux,docker,aws&perline=14" />
+                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,jquery,sass,bootstrap,tailwind,vue,angular,php,laravel,mysql,git,linux,docker,aws&perline=14" />
         </p>
     </a>
 </div>
