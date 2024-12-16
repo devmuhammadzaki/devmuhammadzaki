@@ -4,11 +4,11 @@
     </a>
 </div>
 
-[![Readme badge](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://github.com/devmuhammadzaki)
-[![Readme badge](https://www.codewars.com/users/devmuhammadzaki/badges/micro)](https://www.codewars.com/users/devmuhammadzaki)
+[![Profile Views](https://komarev.com/ghpvc/?username=devmuhammadzaki&color=green)](https://github.com/devmuhammadzaki)
+[![Codewars Profile](https://www.codewars.com/users/devmuhammadzaki/badges/micro)](https://www.codewars.com/users/devmuhammadzaki)
 <br>
-[![Readme badge](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://devmuhammadzaki-portfolio.vercel.app/)
-[![Readme badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%236AA84F&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevmuhammadzaki&logo=leetcode&logoColor=green)](https://leetcode.com/devmuhammadzaki/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6AA84F?style=for-the-badge&logo=About.me&logoColor=white)](https://devmuhammadzaki-portfolio.vercel.app/)
+[![Leetcode Profile](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%236AA84F&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevmuhammadzaki&logo=leetcode&logoColor=green)](https://leetcode.com/devmuhammadzaki/)
 
 <div>
   <h3 align="left">About me:</h3>
@@ -34,8 +34,8 @@
 
 ### Latest Projects: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
 
 ### My Stats:
 
