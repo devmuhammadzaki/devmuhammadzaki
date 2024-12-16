@@ -27,7 +27,9 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,sass,bootstrap,tailwind,vue,php,laravel,livewire,mysql,mongodb,git,linux,docker,aws&perline=13" />
+                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,sass,bootstrap,tailwind,vue,php,laravel,livewire,mysql,mongodb,git,linux,docker,aws&perline=13"
+                alt="Skills"
+            />
         </p>
     </a>
 </div>
@@ -41,6 +43,6 @@
 
 <div align="left">
     <a href="https://github.com/devmuhammadzaki">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhammadzaki&theme=gotham&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhammadzaki&theme=gotham&hide_border=true" alt="Stats 1" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" alt="Stats 2" />
     </a>
 </div>
