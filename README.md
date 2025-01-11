@@ -15,7 +15,7 @@
 
   - 👨 I'm an **Experienced Software Developer** from **Egypt**.
 
-  - 💻 I bring over **one** year of experience as a **Full Stack Developer** in Web development.
+  - 💻 I bring over **two** year of experience as a **Full Stack Developer** in Web development.
 
   - 💬 Ask me about **PHP 🐘!**
 
@@ -27,9 +27,16 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,vue,react,graphql,php,laravel,mysql,git,linux&perline=14"
+                src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,bootstrap,tailwind,vue,angular,csharp,mssql,dotnet,php,laravel,mysql,git,linux&perline=14"
                 alt="Skills"
             />
         </p>
+    </a>
+</div>
+
+### My Stats:
+<div align="left">
+    <a href="https://github.com/devmuhammadzaki">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhammadzaki&theme=gotham&hide_border=true" alt="Stats 1" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" alt="Stats 2" />
     </a>
 </div>
