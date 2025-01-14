@@ -15,7 +15,7 @@
 
   - 👨 I'm an **Experienced Software Developer** from **Egypt**.
 
-  - 💻 I bring over **one** year of experience as a **Full Stack Developer** in Web development.
+  - 💻 I bring over **two** years of experience as a **Full Stack Developer** in Web development.
 
   - 💬 Ask me about **PHP 🐘!**
 
