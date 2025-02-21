@@ -41,6 +41,6 @@
 ### My Stats:
 <div align="left">
     <a href="https://github.com/devmuhammadzaki">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=gotham&layout=compact&hide_border=true&hide=lua" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=gotham&layout=compact&hide_border=true&hide=lua" />
     </a>
 </div>
