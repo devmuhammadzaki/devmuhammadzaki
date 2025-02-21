@@ -37,10 +37,11 @@
 ### Latest Projects: 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
-
+  
+</a>
 ### My Stats:
 <div align="left">
     <a href="https://github.com/devmuhammadzaki">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmuhammadzaki&theme=gotham&hide_border=true" alt="Stats 1" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" alt="Stats 2" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=gotham&layout=compact&hide=lua" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" />
     </a>
 </div>
