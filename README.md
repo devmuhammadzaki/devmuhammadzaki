@@ -13,9 +13,9 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an **Experienced Software Developer** from **Egypt**.
+  - 👨 I'm an **Experienced Software Engineer** from **Egypt**.
 
-  - 💻 I bring **three** years of experience as a **Full Stack Developer** in Web development.
+  - 💻 I bring over **two** years of experience as a **Full Stack Engineer** in Web development.
 
   - 💬 Ask me about **PHP 🐘!**
 
