@@ -35,12 +35,12 @@
 </div>
 
 ### Latest Projects: 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=light&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=light&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
   
 ### My Stats:
 <div align="left">
     <a href="https://github.com/devmuhammadzaki">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=light&show_icons=true&hide_border=true&hide_rank=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=light&layout=compact&hide_border=true&hide=lua" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmuhammadzaki&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=gotham&layout=compact&hide_border=true&hide=lua" />
     </a>
 </div>
