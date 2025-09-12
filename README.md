@@ -27,7 +27,7 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://skills-icons-g6wtuwumy-muhammad-zakis-projects-aa0f074c.vercel.app/api/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,react,php,laravel,codeigniter,yii,symfony,cakephp,mysql,mariadb,sqlite,redis,rabbitmq,git,linux,docker,aws"
+                src="https://skills.syvixor.com/api/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,react,php,laravel,codeigniter,yii,symfony,cakephp,mysql,mariadb,sqlite,redis,rabbitmq,git,linux,docker,aws"
                 alt="Skills"
             />
         </p>
