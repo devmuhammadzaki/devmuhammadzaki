@@ -41,6 +41,6 @@
 ### My Stats:
 <div align="left">
     <a href="https://github.com/devmuhammadzaki">
-        <img align="center" src="https://streak-stats.demolab.com/?user=devmuhammadzaki&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=gotham&layout=compact&hide_border=true&hide=lua" />
+        <img align="center" src="https://streak-stats.demolab.com/?user=devmuhammadzaki&theme=dark&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmuhammadzaki&theme=dark&layout=compact&hide_border=true&hide=lua" />
     </a>
 </div>
