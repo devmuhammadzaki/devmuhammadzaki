@@ -23,7 +23,7 @@
 </div>
 
 <div>
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Tech Stack:</h3>
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
@@ -33,7 +33,3 @@
         </p>
     </a>
 </div>
-
-### Latest Projects: 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=UMS-RBAC-API&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/UMS-RBAC-API)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devmuhammadzaki&repo=mz-tech&theme=gotham&hide_border=true)](https://github.com/devmuhammadzaki/mz-tech)
