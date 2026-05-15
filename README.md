@@ -15,7 +15,7 @@
 
   - 👨 I'm an **Experienced Software Developer** from **Egypt**.
 
-  - 💻 I bring over **two** years of experience as a **Backend-Heavy Full Stack PHP Developer** in Web development.
+  - 💻 I bring over **three** years of experience as a **Backend-Heavy Full Stack Developer** in Web development.
 
   - 💬 Ask me about **PHP 🐘!**
 
@@ -27,7 +27,7 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://skills.syvixor.com/api/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,php,laravel,codeigniter,mysql,mariadb,sqlite,git,linux,docker,aws"
+                src="https://skills.syvixor.com/api/icons?i=html,css,js,jquery,bootstrap,tailwind,vue,react,redux,php,laravel,codeigniter,nodejs,express,mysql,mariadb,sqlite,docker,kubernetes,aws,git,linux"
                 alt="Skills"
             />
         </p>
