@@ -13,13 +13,11 @@
 <div>
   <h3 align="left">About me:</h3>
 
-  - 👨 I'm an **Experienced Software Developer** from **Egypt**.
-
-  - 💻 I bring over **three** years of experience as a **Backend-Heavy Full Stack Developer** in Web development.
+  - 👨 I'm a **Backend-Heavy Full Stack Developer** from **Egypt**.
 
   - 💬 Ask me about **PHP 🐘!**
 
-  - ⚡ **fun fact**: *Computer was a job title, and the first programmers were women*.
+  - ⚡ **fun fact**: *Coding has over 700 languages*.
 </div>
 
 <div>
