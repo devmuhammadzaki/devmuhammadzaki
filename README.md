@@ -27,7 +27,7 @@
     <a href="https://github.com/devmuhammadzaki">
         <p align="center">
             <img
-                src="https://skills.syvixor.com/api/icons?i=html,css,js,tailwind,vue,php,laravel,codeigniter,mysql,mariadb,sqlite,git,linux,apache,nginx,claude,codex,vscode,cursor,gemini,chatgpt,postman"
+                src="https://skills.syvixor.com/api/icons?i=html,css,js,tailwind,vue,php,laravel,codeigniter,mysql,mariadb,sqlite,git,linux,apache,nginx,claude,codex,vscode,cursor,gemini,chatgpt,postman,githubcopilot,npm,pnpm,composer"
                 alt="Skills"
             />
         </p>
